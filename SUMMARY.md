@@ -4,6 +4,7 @@
 
 ## Clarifai Basics
 
+* [Swagger](swagger.md)
 * [Build your first Clarifai App](clarifai-basics/quick-start.md)
 * [Key Terminology to Know](clarifai-basics/glossary.md)
 * [Applications](clarifai-basics/applications/README.md)
