@@ -4,8 +4,9 @@
 
 ## Clarifai Basics
 
-* [Swagger](swagger.md)
-* [Build your first Clarifai App](clarifai-basics/quick-start.md)
+* [Swagger](clarifai-basics/swagger.md)
+* [Build your first Clarifai App](clarifai-basics/quick-start/README.md)
+  * [Untitled](clarifai-basics/quick-start/untitled.md)
 * [Key Terminology to Know](clarifai-basics/glossary.md)
 * [Applications](clarifai-basics/applications/README.md)
   * [Create an Application](clarifai-basics/applications/create-an-application.md)
@@ -168,3 +169,4 @@
 * [Clarifai Blog](https://www.clarifai.com/blog)
 * [Clarifai Help](https://help.clarifai.com/hc/en-us)
 * [Clarifai Community](https://www.clarifai.com/community)
+

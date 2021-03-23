@@ -8,7 +8,7 @@ description: Learn about the labeling tools that are available to you in Scribe.
 
 Scribe provides special tools for working with images and video.
 
-![Easily label images with bounding boxes](../../.gitbook/assets/label_bounding_box%20%281%29%20%284%29%20%284%29%20%286%29%20%284%29.jpg)
+![Easily label images with bounding boxes](../../.gitbook/assets/label_bounding_box%20%281%29%20%284%29%20%284%29%20%286%29%20%288%29%20%281%29.jpg)
 
 ## Images
 
@@ -42,13 +42,13 @@ Powerful zoom and panning features allow you to closely inspect specific regions
 
 ## Polygon Labeling
 
-Many labeling tasks can be handled well with bounding box labels, but in cases where you need a more precise way to annotate object, polygon labels are an excellent option. Polygon labels allow you to identify and annotate the exact pixels of your image that represent the object that you would like to label. Polygon labels will output a sequence of x, y coordinates for every point that comprises the polygon. 
+Many labeling tasks can be handled well with bounding box labels, but in cases where you need a more precise way to annotate object, polygon labels are an excellent option. Polygon labels allow you to identify and annotate the exact pixels of your image that represent the object that you would like to label. Polygon labels will output a sequence of x, y coordinates for every point that comprises the polygon.
 
 First you will need to select "Polygons" as the task type when creating your labeling task.
 
 ![Select &quot;Polygons&quot; as your task type when creating a new labeling task](../../.gitbook/assets/polygon-task.jpg)
 
-When labeling your images, you will be able to create multi-point shapes that can outline the precise pixels of the object that you would like to label. Just remember that you will need to "connect the dots" by connecting the last point in your polygon with the first point. 
+When labeling your images, you will be able to create multi-point shapes that can outline the precise pixels of the object that you would like to label. Just remember that you will need to "connect the dots" by connecting the last point in your polygon with the first point.
 
 ![Outline your image and be sure to connect the first and last nodes of your polygon](../../.gitbook/assets/polygon-label.gif)
 

@@ -21,7 +21,7 @@ Manual review lets you either spot check your labeler work, or review each indiv
 Adjusting the sample size will give you a subset of the total labeled dataset for review. This is so that you can get an impression of your labeler's work, and then approve or reject their entire labeling task based on this impression. Please note that if you select a sample size that is less than 100%, you will not be able to approve or reject individual labels.
 {% endhint %}
 
-![manual review strategy](../../.gitbook/assets/manual-review-strategy.jpg)
+![manual review strategy](../../.gitbook/assets/manual-review-strategy%20%281%29.jpg)
 
 When you click on your review tasks under the review tab, you will be taken to a view where you can review and approve each labeled input. You can add additional annotations yourself in this view.
 

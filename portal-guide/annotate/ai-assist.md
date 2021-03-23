@@ -14,7 +14,7 @@ To activate AI Assist, just create a new labeling task and toggle the "Enable AI
 
 ## Custom Workflow
 
-By selecting a custom workflow AI Assist will offer predictions made by your custom model. In order to take advantage of a custom workflow you will already need to have labeled some data and trained a custom model. If you are starting a labeling project from scratch you will need to start with a Clarifai Workflow. 
+By selecting a custom workflow AI Assist will offer predictions made by your custom model. In order to take advantage of a custom workflow you will already need to have labeled some data and trained a custom model. If you are starting a labeling project from scratch you will need to start with a Clarifai Workflow.
 
 ## Clarifai Workflow
 

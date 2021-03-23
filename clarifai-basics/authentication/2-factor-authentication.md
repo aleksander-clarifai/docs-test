@@ -39,7 +39,7 @@ Once the enable is toggled:
 
 ![](../../.gitbook/assets/recovery-code.png)
 
-![](../../.gitbook/assets/2fa-success.png)
+![](../../.gitbook/assets/2fa-success%20%281%29.png)
 
 ### 2FA Sign-In
 
@@ -47,7 +47,7 @@ When you sign in to the Clarifai platform with correct username and password, 2F
 
 A box will show up on the screen asking for the authentication code.
 
-![](../../.gitbook/assets/verify-2fa.png)
+![](../../.gitbook/assets/verify-2fa%20%281%29.png)
 
 If the correct code is entered, you will be taken to Portal.
 

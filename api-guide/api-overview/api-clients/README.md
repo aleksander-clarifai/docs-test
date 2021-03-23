@@ -6,7 +6,7 @@ description: Clarifai API provides clients in the most popular languages.
 
 ## Clarifai Clients
 
-You can access the Clarifai API through clients in many of the most popular programming languages. Our clients are built on [gRPC](https://grpc.io/) and are accessible through HTTP+JSON channels as well as gRPC channels. 
+You can access the Clarifai API through clients in many of the most popular programming languages. Our clients are built on [gRPC](https://grpc.io/) and are accessible through HTTP+JSON channels as well as gRPC channels.
 
 | Official Clients |
 | :--- |
